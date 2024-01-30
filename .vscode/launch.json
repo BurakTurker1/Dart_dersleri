@@ -8,7 +8,9 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "Bolum1/string_literals_interpolation.dart", // programin baslayacagi dosyayi gosteriyor
+            "program": "${file}", // acik olan dosyayi calistiriyo
+            //"program": "Bolum1/string_literals_interpolation.dart", // programin baslayacagi dosyayi gosteriyor
+            "console": "terminal", //console u terminel olarak ayarliyo
         }
     ]
 }
