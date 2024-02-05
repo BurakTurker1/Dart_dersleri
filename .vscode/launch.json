@@ -10,7 +10,7 @@
             "type": "dart",
             "program": "${file}", // acik olan dosyayi calistiriyo
             //"program": "Bolum1/string_literals_interpolation.dart", // programin baslayacagi dosyayi gosteriyor
-            "console": "terminal", //console u terminel olarak ayarliyo
+            // "console": "terminal", //console u terminel olarak ayarliyo
         }
     ]
 }
